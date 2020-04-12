@@ -156,7 +156,7 @@
         },
         "sqlalchemy": {
             "hashes": [
-                "sha256:7224e126c00b8178dfd227bc337ba5e754b197a3867d33b9f30dc0208f773d70"
+                "13d48cd8b925b6893a4e59b2dfb3e59a5204fd8c98289aad353af78bd214db49"
             ],
             "version": "==1.3.16"
         },
